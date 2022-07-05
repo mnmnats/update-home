@@ -15,7 +15,7 @@
 ### 主な利用シーン
 <家の修繕、リフォームをしたい・仕事がほしい会社>
 
-
+https://docs.google.com/spreadsheets/d/1CraWIRMuo51atdNKQXgJDUDJ-4iXbUdZcc-Up4apjiY/edit?usp=sharing
 
 ## 設計書
 <...>
